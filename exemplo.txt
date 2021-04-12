@@ -1,1 +1,2 @@
 o primeiro texto de exemplo do git 
+segunda linha criada 
